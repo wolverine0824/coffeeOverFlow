@@ -1,0 +1,58 @@
+/*   This is the only style sheet for this project
+ *   The elements have broken into minimal components in order to satisfy a dynamic UI
+ */
+
+
+ #MainUL
+ {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 2em;
+  /* border: 3px solid black; */
+  margin: 5px 5px 5px 5px;
+  padding: 0px 0px 0px 0px;
+  font-family: Consolas,monaco,monospace;
+  /* background: 		#787878; */
+  margin-top: 40px;
+ }
+
+#d1, #d2, #d3, #d4, #d5, #d6
+ {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 5px 5px 5px 5px;
+  padding: 0px 0px 0px 0px;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 5px 5px;
+  background: white;
+ }
+
+#gas_0, #gas_1, #gas_2, #gas_3, #gas_4, #gas_5
+ {
+  list-style: none;
+ }
+
+#cn1, #cn2, #cn3, #cn4, #cn5, #c1, #c2, #c3, #c4, #c5,#c6, #c7, #c8, #c9, #c10,#c11, #c12, #c13, #c14, #c15,#c16, #c17, #c18, #c19, #c20,#c21, #c22, #c23, #c24, #c25
+ {
+  list-style: circle;
+  margin: 5px 5px 5px 25px;
+  padding: 0px 0px 0px 0px;
+  font-size: 14px;
+  font-family: Consolas,monaco,monospace;
+  flex: 1 1 0em;
+ }
+
+#cn1, #cn2, #cn3, #cn4, #cn5
+ {
+  font-weight: 1000;
+  font-size: 17px;
+  overflow-wrap: anywhere;
+ }
+
+#zipee
+ {
+  text-align: center;
+  width: 600px;
+  margin: 30px 27%;
+ }

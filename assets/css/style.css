@@ -1,0 +1,158 @@
+.header{
+  text-align: center;
+  font-size: 45px;
+  background: 	#CCE5FF;
+  color: #696969;
+  font-family:'Raleway', sans-serif;
+}
+
+.slogan{
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+  font-weight:bold;
+  background: whitesmoke;
+  border: 1px solid black;
+  color: #696969;
+}
+
+body {
+  font-family: 'Raleway', sans-serif;
+  background: #e0e0e0;
+  color: #707070;
+  margin: 0;
+  padding: 0;
+  border-radius: 20px; 
+  background-image: url("https://images.unsplash.com/photo-1550693445-737398ed6775?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=400&amp;q=80%20400w");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* #background{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: auto;
+} */
+
+.text-center{
+  text-align: center;
+  font-size: 20px;
+  margin-top: 80px;
+  font-weight: bold;
+  color: #00FFFF;
+}
+
+.container {
+  background-color: transparent;
+}
+
+.btn {
+  border: none;
+  outline: none;
+  background: gray;
+  border: 2px solid black;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+  width: 150px;
+  height: 35px;
+  border-radius: 20px;
+  margin-top: 10px;
+}
+
+.search-location{
+  text-align: center;
+} 
+
+.save-input {
+  margin-top: none;
+  text-align: center;
+  /* font-size: 25px; */
+}
+
+.city-location{
+  font-size: 50px;
+  color: 	#505050;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 40px;
+  text-decoration: 1px underline overline;
+}
+
+.temp{
+  font-size: 45px;
+}
+
+.condition{
+  font-size: 45px;
+}
+
+.humidity-con{
+  font-size: 45px;
+}
+
+.wind-speed{
+font-size: 45px;
+}
+
+/* .card-body{
+  border: 2px solid black;
+} */
+
+.card-mid{
+  text-align: center;
+  margin-left: 90px;
+  margin-right: 90px;
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+
+.icon{
+  border:2px solid white;
+  background: #CCE5FF;
+  border-radius: 15px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.card-bottom{
+  text-align: center;
+  margin-left: 90px;
+  margin-right: 90px;
+  /* margin-top:20px; */
+  margin-bottom: 60px;
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+input{
+  text-align: center;
+  border-radius: 5px;
+  font-size: 25px;
+}
+
+.footer{
+  text-align: center;
+  margin-top: 40px;
+  margin-right: 100px;
+  margin-left: 100px;
+  border: 2px solid white;
+  background: white;
+  border-radius: 10px;
+}
+
+.icon-img{
+  text-align: center;
+  margin-top: 30px;
+}
+
+#MainUL:hover {
+  background-color: red;
+}
+
+.zip-name {
+  opacity: 0.0;
+}

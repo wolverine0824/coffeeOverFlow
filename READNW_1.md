@@ -208,17 +208,14 @@ Enjoy!!!
   
 ### **First Time usuage**   
   ![Storage View](./assets/Images/project.png)   
-  
-### **Full View**   
-  ![Full View](./assets/Images/project4.png)   
-
-### **Compact View**   
-  ![Compact View](./assets/Images/full_compressed.png)   
- 
+    
 ### **Searching for a Decatur**   
-   ![Searching for Decatur](./assets/Images/project1.png)   
+   ![First Time Use](./assets/Images/project1.png)   
   
 ### **Searching Alpharetta**   
-  ![Searching for Alpharetta](./assets/Images/project3.png)    
-    
+  ![Developer View](./assets/Images/project3.png)    
+  
+### **Compact View**   
+  ![Compact View](./assets/Images/compressedview.png)   
  
+
